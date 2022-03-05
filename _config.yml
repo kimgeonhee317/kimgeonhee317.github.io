@@ -48,8 +48,8 @@ github_username:  kimgeonhee317
 # about_title: About Me
 about_profile_image: images/pixel_moon.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Cybersecurity analyst with 5+ experinece of security monitoring and incident response and security network systems engineerings.
-  Specialized in detecting meaningful factors, indicator of cyber threat by log analysis using data-driven technique and insight.
+  Cybersecurity analyst with 5+ years experience of security monitoring and incident response and security network systems engineerings.
+  Specialized in detecting suspicious indicator of cyber threat by log analysis method using data-driven technique and insight.
   + CISSP(Certified Information Systems Security Professional)
   + Engineer Information Security
   + Engineer Information Processing
